@@ -1,2 +1,6 @@
 # hello-world
-FZ test github repository
+
+Hi Humans!
+
+Hubot here, I like Node.js and Coffeescript (hat's what I'm made of!).
+I've had tacos on the moon and find then far superior to Earth tacos.
